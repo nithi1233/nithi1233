@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithimaran S S</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems | IoT | AI</h3>
+<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems | IoT</h3>
 
 ---
 
