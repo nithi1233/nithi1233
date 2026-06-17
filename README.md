@@ -18,17 +18,16 @@
 - Python · C · Java · HTML · CSS · JavaScript
 
 #### ⚡ Embedded Systems & IoT  
-- STM32 · ESP32 · Arduino
+- ESP32 · Arduino
 
-#### 🤖 AI & ML  
-- Edge AI
+
 
 ---
 
 ### 🚀 Projects  
 - 🚗 **Car Accident Detection System** — IoT + AI system for real-time accident alerts  
 - 🚦 **Smart Traffic Management System** — Web app with live map & incident reporting  
-- 🖐 **Voice to Sign Language Converter** — Real-time gesture display from speech input
+- 🖐 **Powerloom_Monitoring** — Real-time powerloom production and labour monitoring system
 
 ---
 
